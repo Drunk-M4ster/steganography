@@ -1,4 +1,4 @@
-package org.example;
+package com.example;
 
 import javax.imageio.ImageIO;
 import java.awt.image.BufferedImage;
